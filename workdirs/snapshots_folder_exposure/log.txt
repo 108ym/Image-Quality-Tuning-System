@@ -1,0 +1,100 @@
+epoch 1: SSIM = nan, PSNR = nan
+epoch 2: SSIM = nan, PSNR = nan
+epoch 3: SSIM = nan, PSNR = nan
+epoch 4: SSIM = nan, PSNR = nan
+epoch 5: SSIM = nan, PSNR = nan
+epoch 6: SSIM = nan, PSNR = nan
+epoch 7: SSIM = nan, PSNR = nan
+epoch 8: SSIM = nan, PSNR = nan
+epoch 9: SSIM = nan, PSNR = nan
+epoch 10: SSIM = nan, PSNR = nan
+epoch 11: SSIM = nan, PSNR = nan
+epoch 12: SSIM = nan, PSNR = nan
+epoch 13: SSIM = nan, PSNR = nan
+epoch 14: SSIM = nan, PSNR = nan
+epoch 15: SSIM = nan, PSNR = nan
+epoch 16: SSIM = nan, PSNR = nan
+epoch 17: SSIM = nan, PSNR = nan
+epoch 18: SSIM = nan, PSNR = nan
+epoch 19: SSIM = nan, PSNR = nan
+epoch 20: SSIM = nan, PSNR = nan
+epoch 21: SSIM = nan, PSNR = nan
+epoch 22: SSIM = nan, PSNR = nan
+epoch 23: SSIM = nan, PSNR = nan
+epoch 24: SSIM = nan, PSNR = nan
+epoch 25: SSIM = nan, PSNR = nan
+epoch 26: SSIM = nan, PSNR = nan
+epoch 27: SSIM = nan, PSNR = nan
+epoch 28: SSIM = nan, PSNR = nan
+epoch 29: SSIM = nan, PSNR = nan
+epoch 30: SSIM = nan, PSNR = nan
+epoch 31: SSIM = nan, PSNR = nan
+epoch 32: SSIM = nan, PSNR = nan
+epoch 33: SSIM = nan, PSNR = nan
+epoch 34: SSIM = nan, PSNR = nan
+epoch 35: SSIM = nan, PSNR = nan
+epoch 36: SSIM = nan, PSNR = nan
+epoch 37: SSIM = nan, PSNR = nan
+epoch 38: SSIM = nan, PSNR = nan
+epoch 39: SSIM = nan, PSNR = nan
+epoch 40: SSIM = nan, PSNR = nan
+epoch 41: SSIM = nan, PSNR = nan
+epoch 42: SSIM = nan, PSNR = nan
+epoch 43: SSIM = nan, PSNR = nan
+epoch 44: SSIM = nan, PSNR = nan
+epoch 45: SSIM = nan, PSNR = nan
+epoch 46: SSIM = nan, PSNR = nan
+epoch 47: SSIM = nan, PSNR = nan
+epoch 48: SSIM = nan, PSNR = nan
+epoch 49: SSIM = nan, PSNR = nan
+epoch 50: SSIM = nan, PSNR = nan
+epoch0:the SSIM isnanthe PSNR isnan
+epoch1:the SSIM isnanthe PSNR isnan
+epoch2:the SSIM isnanthe PSNR isnan
+epoch3:the SSIM isnanthe PSNR isnan
+epoch4:the SSIM isnanthe PSNR isnan
+epoch5:the SSIM isnanthe PSNR isnan
+epoch6:the SSIM isnanthe PSNR isnan
+epoch7:the SSIM isnanthe PSNR isnan
+epoch8:the SSIM isnanthe PSNR isnan
+epoch9:the SSIM isnanthe PSNR isnan
+epoch10:the SSIM isnanthe PSNR isnan
+epoch11:the SSIM isnanthe PSNR isnan
+epoch12:the SSIM isnanthe PSNR isnan
+epoch13:the SSIM isnanthe PSNR isnan
+epoch14:the SSIM isnanthe PSNR isnan
+epoch15:the SSIM isnanthe PSNR isnan
+epoch16:the SSIM isnanthe PSNR isnan
+epoch17:the SSIM isnanthe PSNR isnan
+epoch18:the SSIM isnanthe PSNR isnan
+epoch19:the SSIM isnanthe PSNR isnan
+epoch20:the SSIM isnanthe PSNR isnan
+epoch21:the SSIM isnanthe PSNR isnan
+epoch22:the SSIM isnanthe PSNR isnan
+epoch23:the SSIM isnanthe PSNR isnan
+epoch24:the SSIM isnanthe PSNR isnan
+epoch25:the SSIM isnanthe PSNR isnan
+epoch26:the SSIM isnanthe PSNR isnan
+epoch27:the SSIM isnanthe PSNR isnan
+epoch28:the SSIM isnanthe PSNR isnan
+epoch29:the SSIM isnanthe PSNR isnan
+epoch30:the SSIM isnanthe PSNR isnan
+epoch31:the SSIM isnanthe PSNR isnan
+epoch32:the SSIM isnanthe PSNR isnan
+epoch33:the SSIM isnanthe PSNR isnan
+epoch34:the SSIM isnanthe PSNR isnan
+epoch35:the SSIM isnanthe PSNR isnan
+epoch36:the SSIM isnanthe PSNR isnan
+epoch37:the SSIM isnanthe PSNR isnan
+epoch38:the SSIM isnanthe PSNR isnan
+epoch39:the SSIM isnanthe PSNR isnan
+epoch40:the SSIM isnanthe PSNR isnan
+epoch41:the SSIM isnanthe PSNR isnan
+epoch42:the SSIM isnanthe PSNR isnan
+epoch43:the SSIM isnanthe PSNR isnan
+epoch44:the SSIM isnanthe PSNR isnan
+epoch45:the SSIM isnanthe PSNR isnan
+epoch46:the SSIM isnanthe PSNR isnan
+epoch47:the SSIM isnanthe PSNR isnan
+epoch48:the SSIM isnanthe PSNR isnan
+epoch49:the SSIM isnanthe PSNR isnan
